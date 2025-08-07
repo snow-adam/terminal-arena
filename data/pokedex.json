@@ -1,0 +1,19 @@
+{
+    "Bulbasaur": {
+        "type": "Grass",
+        "hp": 45,
+        "moves": ["Tackle", "Vine Whip", "Growl"]
+    },
+
+    "Charmander": {
+        "type": "Fire",
+        "hp": 39,
+        "moves": ["Scratch", "Ember", "Growl"]
+    },
+
+    "Squirtle": {
+        "type": "Water",
+        "hp": 44,
+        "moves": ["Tackle", "Water Gun", "Tail Whip"]
+    }
+}
