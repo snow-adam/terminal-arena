@@ -1,0 +1,26 @@
+{
+    "Scratch": {
+        "type": "Normal",
+        "power": 40
+    },
+
+    "Vine Whip": {
+        "type": "Grass",
+        "power": 45
+    },
+
+    "Tackle": {
+        "type": "Normal",
+        "power": 40
+    },
+
+    "Ember": {
+        "type": "Fire",
+        "power": 40
+    },
+
+    "Water Gun": {
+        "type": "Water",
+        "power": 40
+    }
+}

@@ -1,8 +1,7 @@
 import battle
 import utils
-import pokemon
 
 print("Welcome to the turn-based battle simulator, inspired by the official Pokémon games!", end="")
-utils.timed_line_break()
+utils.line_break(10)
 
 battle.battle_start()
