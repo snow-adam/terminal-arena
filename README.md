@@ -1,5 +1,5 @@
 <h1>Terminal Arena</h1>
-<Built>A terminal-based turn-based battle simulator inspired by classic Pokémon mechanics. Built to consolidate Python fundamentals including control flow, loops, functions, classes, dictionaries, JSON handling, modules, and file I/O.</h4><br><br>
+<h4>A terminal-based turn-based battle simulator inspired by classic Pokémon mechanics. Built to consolidate Python fundamentals including control flow, loops, functions, classes, dictionaries, JSON handling, modules, and file I/O.</h4><br>
 
 
 <a href="https://replit.com/@snow-adam/terminal-arena">
