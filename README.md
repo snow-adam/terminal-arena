@@ -1,7 +1,10 @@
 <h1>Terminal Arena</h1>
-<Built>A terminal-based turn-based battle simulator inspired by classic Pokémon mechanics. Built to consolidate Python fundamentals including control flow, loops, functions, classes, dictionaries, JSON handling, modules, and file I/O.</h4>
+<Built>A terminal-based turn-based battle simulator inspired by classic Pokémon mechanics. Built to consolidate Python fundamentals including control flow, loops, functions, classes, dictionaries, JSON handling, modules, and file I/O.</h4><br><br>
 
-<h3><a href="https://replit.com/@snow-adam/terminal-arena">Live Preview</a></h3>
+
+<a href="https://replit.com/@snow-adam/terminal-arena">
+  <img src="https://replit.com/badge/github/snow-adam/terminal-arena">
+</a>
 
 <h2>Features</h2>
 
@@ -13,9 +16,17 @@
 
 
 <h2>Technologies</h2>
-<a href="https://replit.com/@snow-adam/terminal-arena"><img src="https://skillicons.dev/icons?i=py,git,github,bash,replit"></a>
+<a href="https://replit.com/@snow-adam/terminal-arena">
+    <img src="https://skillicons.dev/icons?i=py,git,github,bash,replit">
+</a>
 
 <h2>Screenshots</h2>
-<a href="https://replit.com/@snow-adam/terminal-arena"><img src="public/images/welcome-screenshot.png"></a>
-<a href="https://replit.com/@snow-adam/terminal-arena"><img src="public/images/battle-screenshot.png"></a>
-<a href="https://replit.com/@snow-adam/terminal-arena"><img src="public/images/victory-screenshot.png"></a>
+<a href="https://replit.com/@snow-adam/terminal-arena">
+    <img src="public/images/welcome-screenshot.png">
+</a>
+<a href="https://replit.com/@snow-adam/terminal-arena">
+    <img src="public/images/battle-screenshot.png">
+</a>
+<a href="https://replit.com/@snow-adam/terminal-arena">
+    <img src="public/images/victory-screenshot.png">
+</a>
