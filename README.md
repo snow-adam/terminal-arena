@@ -13,9 +13,9 @@
 
 
 <h2>Technologies</h2>
-<img src="https://skillicons.dev/icons?i=py,git,github,bash,replit">
+<a href="https://replit.com/@snow-adam/terminal-arena"><img src="https://skillicons.dev/icons?i=py,git,github,bash,replit"></a>
 
 <h2>Screenshots</h2>
-<img src="public/screenshots/welcome-screenshot.png">
-<img src="public/screenshots/battle-screenshot.png">
-<img src="public/screenshots/victory-screenshot.png">
+<a href="https://replit.com/@snow-adam/terminal-arena"><img src="public/screenshots/welcome-screenshot.png"></a>
+<a href="https://replit.com/@snow-adam/terminal-arena"><img src="public/screenshots/battle-screenshot.png"></a>
+<a href="https://replit.com/@snow-adam/terminal-arena"><img src="public/screenshots/victory-screenshot.png"></a>
