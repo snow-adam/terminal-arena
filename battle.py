@@ -62,7 +62,7 @@ def battle_start():
                 for move in player.get_pokemon().get_moves():
                     print(move)
 
-                user_input = input("\nbSelect your move: ")
+                user_input = input("\nSelect your move: ")
                 user_input = user_input.title()
 
             utils.line_break(10)
